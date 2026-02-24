@@ -27,13 +27,3 @@ My experience includes developing and optimizing full-stack applications, automa
 
 Outside of coursework and internships, I’ve led and collaborated within large teams, learning how structure, communication, and shared accountability can turn ideas into results. I value curiosity, clear thinking, and continuous improvement; principles I bring to every project I take on.<br>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-
-###
-
-###
