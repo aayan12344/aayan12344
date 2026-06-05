@@ -6,7 +6,7 @@
 
 # Aayan Chaturvedi
 
-**B.S. Computer Science — Virginia Tech | GPA: 3.4 |**
+**B.S. Computer Science — Virginia Tech | GPA: 3.4 | AI and Machine Learning**
 
 Software engineer with 2 internships and hands-on experience in full-stack 
 development, large-scale data engineering, and applied AI. I build systems 
