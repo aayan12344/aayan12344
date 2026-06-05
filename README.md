@@ -9,21 +9,31 @@
 </div>
 
 ###
-
-
 ###
 
 <h1 align="center">hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I’m a Computer Science student at Virginia Tech, passionate about combining data, software, and analytical thinking to create impactful technology solutions. I enjoy breaking down complex problems and turning them into efficient, reliable systems that make a difference.
+<p align="left">
+I'm a Computer Science student at Virginia Tech, passionate about building 
+systems that sit at the intersection of software engineering, data, and AI.
 
-My experience includes developing and optimizing full-stack applications, automating large-scale data workflows, and applying AI-driven tools to improve performance and accessibility. Through my internships at Abeyon LLC, I worked with Java, SQL, AngularJS, and Python to enhance system reliability and streamline data processing, gaining hands-on experience in both development and problem solving.
-
-Outside of coursework and internships, I’ve led and collaborated within large teams, learning how structure, communication, and shared accountability can turn ideas into results. I value curiosity, clear thinking, and continuous improvement; principles I bring to every project I take on.<br>
-
+- 🔭 I've interned twice at Abeyon LLC, where I automated 300GB+ data 
+  pipelines, built NLP-powered Q&A systems, and integrated LLMs like Mistral 
+  to accelerate analysis
+- 🧠 I build with Python, Java, TypeScript, React, SQL, and Node.js — and I'm 
+  always picking up something new
+- 🤖 I'm especially interested in AI reliability — my Chrome extension project 
+  detects LLM hallucinations using FAISS and calibrated uncertainty metrics
+- 📊 I've applied ML to real clinical datasets, training classifiers on 
+  485,000+ genomic features for leukemia detection
+- 🤝 Outside of code, I lead as VP Internal of my fraternity chapter, where I 
+  manage operations for 35+ members and build systems that keep things running
+- ⚡ I care about writing clean, efficient code and building things that 
+  actually work in the real world
+</p>
