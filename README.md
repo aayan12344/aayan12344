@@ -6,21 +6,39 @@
 
 # Aayan Chaturvedi
 
-Computer Science student at Virginia Tech with hands-on experience in 
-software engineering, data pipelines, and applied AI. I focus on building 
-systems that are clean, efficient, and built to last.
+**B.S. Computer Science — Virginia Tech | GPA: 3.4 | Available for Full-Time Roles**
 
-**What I've worked on:**
+Software engineer with 2 internships and hands-on experience in full-stack 
+development, large-scale data engineering, and applied AI. I build systems 
+that are performant, reliable, and solve real problems.
 
-- Interned twice at Abeyon LLC, automating 300GB+ data pipelines, building 
-  NLP-powered Q&A systems, and integrating LLMs to accelerate analysis
-- Built a Chrome extension that detects LLM hallucinations using FAISS and 
-  calibrated uncertainty metrics
+---
+
+**Experience Highlights**
+
+- Automated 300GB+ data pipelines at Abeyon LLC using Python and Pandas, 
+  reducing manual processing time by 70%
+- Built and deployed an NLP-powered Q&A system over large technical document 
+  sets, improving engineer productivity
+- Integrated Mistral LLM to extract and synthesize insights from complex 
+  patent datasets at scale
+
+**Projects**
+
+- Developed a Chrome extension that detects LLM hallucinations using FAISS 
+  and calibrated uncertainty metrics, with a FastAPI inference backend
 - Trained ML classifiers on 485,000+ genomic features for leukemia detection, 
-  achieving AUC = 1.0
-- Currently serving as VP Internal of my fraternity chapter, managing 
-  operations and systems for 35+ members
+  achieving AUC = 1.0 and 90% test accuracy across 5-fold cross-validation
 
-**Technical focus:** Python, Java, TypeScript, React, SQL, Node.js, PyTorch
+---
 
-I care about writing code that solves real problems — not just code that runs.
+**Tech Stack**
+
+Python · Java · TypeScript · JavaScript · React · Node.js · SQL · PyTorch · 
+MongoDB · Microsoft Azure · Linux · Git
+
+---
+
+I write clean, well-tested code and thrive in fast-moving environments. 
+Open to full-time software engineering roles in areas of AI, data, 
+or full-stack development.
