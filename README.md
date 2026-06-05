@@ -6,7 +6,7 @@
 
 # Aayan Chaturvedi
 
-**B.S. Computer Science — Virginia Tech | GPA: 3.4 | Available for Full-Time Roles**
+**B.S. Computer Science — Virginia Tech | GPA: 3.4 |**
 
 Software engineer with 2 internships and hands-on experience in full-stack 
 development, large-scale data engineering, and applied AI. I build systems 
@@ -38,7 +38,3 @@ Python · Java · TypeScript · JavaScript · React · Node.js · SQL · PyTorch
 MongoDB · Microsoft Azure · Linux · Git
 
 ---
-
-I write clean, well-tested code and thrive in fast-moving environments. 
-Open to full-time software engineering roles in areas of AI, data, 
-or full-stack development.
